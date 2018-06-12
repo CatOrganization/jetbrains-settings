@@ -3,8 +3,6 @@
     <extensionMap>
       <mapping pattern="*.yaml.*" type="YAML" />
       <mapping pattern="*.yml.*" type="YAML" />
-      <removed_mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yaml" type="YAML" />
     </extensionMap>
   </component>
 </application>
