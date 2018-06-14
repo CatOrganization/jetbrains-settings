@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="df" type="Dockerfile" />
+      <mapping pattern="unit_test" type="PLAIN_TEXT" />
       <mapping pattern="*.yaml.*" type="YAML" />
       <mapping pattern="*.yml.*" type="YAML" />
     </extensionMap>
