@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <mouse-shortcut keystroke="shift button3" />
+  </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="shift meta m" second-keystroke="d" />
   </action>
