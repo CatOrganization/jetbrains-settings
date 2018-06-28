@@ -42,6 +42,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Remote Python 3.6.5 Docker (system-test:latest) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Remote Python 3.6.5 Docker (transcribe-prototype:latest) interpreter library">
       <CLASSES />
       <JAVADOC />
