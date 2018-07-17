@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="df" type="Dockerfile" />
+      <mapping pattern="idk" type="JSON" />
       <mapping pattern="flake8_local" type="PLAIN_TEXT" />
       <mapping pattern="unit_test" type="PLAIN_TEXT" />
       <mapping ext="hdf5" type="PLAIN_TEXT" />
